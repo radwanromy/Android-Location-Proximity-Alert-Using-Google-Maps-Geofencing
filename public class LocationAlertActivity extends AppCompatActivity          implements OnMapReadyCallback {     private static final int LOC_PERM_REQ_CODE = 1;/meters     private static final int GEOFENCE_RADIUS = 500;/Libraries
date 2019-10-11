@@ -1,0 +1,5 @@
+dependencies {
+    . . .
+    implementation 'com.google.android.gms:play-services-maps:11.6.0'
+    implementation 'com.google.android.gms:play-services-location:11.6.0'
+}
